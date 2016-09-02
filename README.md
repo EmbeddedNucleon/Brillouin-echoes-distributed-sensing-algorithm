@@ -1,8 +1,8 @@
-# BEDS-SBS
+# Brillouin echoes distributed sensing (BEDS)
 
 **Overview**
 
-BEDS-SBS code controls the experimental equipment used for Brillouin echoes distributed sensing (BEDS).
+MATLAB code controls the experimental equipment used for Brillouin echoes distributed sensing (BEDS).
  
 **Getting Started**
 
